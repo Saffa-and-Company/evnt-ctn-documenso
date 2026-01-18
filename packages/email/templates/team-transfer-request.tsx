@@ -75,7 +75,7 @@ export const TeamTransferRequestTemplate = ({
 
               <Section className="mb-6 mt-6 text-center">
                 <Button
-                  className="bg-documenso-500 ml-2 inline-flex items-center justify-center rounded-lg px-6 py-3 text-center text-sm font-medium text-black no-underline"
+                  className="bg-ctribe-500 ml-2 inline-flex items-center justify-center rounded-lg px-6 py-3 text-center text-sm font-medium text-black no-underline"
                   href={`${baseUrl}/team/verify/transfer/${token}`}
                 >
                   <Trans>Accept</Trans>
