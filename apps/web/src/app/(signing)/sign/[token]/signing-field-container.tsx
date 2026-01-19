@@ -191,7 +191,7 @@ export const SigningFieldContainer = ({
                   'bg-foreground/5 border-border border': !field.inserted,
                 },
                 {
-                  'bg-documenso-200 border-primary border': field.inserted,
+                  'bg-ctribe-200 border-primary border': field.inserted,
                 },
               )}
             >

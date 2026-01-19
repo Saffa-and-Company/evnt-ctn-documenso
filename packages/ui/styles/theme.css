@@ -15,11 +15,11 @@
 
     --card: 0 0% 100%;
     --card-border: 214.3 31.8% 91.4%;
-    --card-border-tint: 112 205 159;
+    --card-border-tint: 250 204 21;  /* C-Tribe Gold RGB */
     --card-foreground: 222.2 47.4% 11.2%;
 
-    --field-card: 95 74% 90%;
-    --field-card-border: 95.08 71.08% 67.45%;
+    --field-card: 48 100% 93%;  /* Light gold for field cards */
+    --field-card-border: 48 96% 53%;  /* C-Tribe Gold border */
     --field-card-foreground: 222.2 47.4% 11.2%;
 
     --widget: 0 0% 97%;
@@ -28,8 +28,8 @@
     --border: 214.3 31.8% 91.4%;
     --input: 214.3 31.8% 91.4%;
 
-    --primary: 95.08 71.08% 67.45%;
-    --primary-foreground: 95.08 71.08% 10%;
+    --primary: 48 96% 53%;  /* C-Tribe Gold #FACC15 */
+    --primary-foreground: 240 19% 14%;  /* Dark text #1a1a2e for contrast */
 
     --secondary: 210 40% 96.1%;
     --secondary-foreground: 222.2 47.4% 11.2%;
@@ -40,13 +40,13 @@
     --destructive: 0 100% 50%;
     --destructive-foreground: 210 40% 98%;
 
-    --ring: 95.08 71.08% 67.45%;
+    --ring: 48 96% 53%;  /* C-Tribe Gold */
 
     --radius: 0.5rem;
 
     --warning: 54 96% 45%;
 
-    --gold: 47.9 95.8% 53.1%;
+    --gold: 48 96% 53%;  /* C-Tribe Gold */
 
     --signer-green: 100 48% 55%;
     --signer-blue: 212 56% 50%;
@@ -150,7 +150,7 @@
 
     --card: 0 0% 14.9%;
     --card-border: 0 0% 27.9%;
-    --card-border-tint: 112 205 159;
+    --card-border-tint: 250 204 21;  /* C-Tribe Gold RGB */
     --card-foreground: 0 0% 95%;
 
     --widget: 0 0% 14.9%;
@@ -161,25 +161,25 @@
 
     --field-border: 214.3 31.8% 91.4%;
 
-    --primary: 95.08 71.08% 67.45%;
-    --primary-foreground: 95.08 71.08% 10%;
+    --primary: 48 96% 53%;  /* C-Tribe Gold #FACC15 */
+    --primary-foreground: 240 19% 14%;  /* Dark text #1a1a2e for contrast */
 
     --secondary: 0 0% 23.4%;
-    --secondary-foreground: 95.08 71.08% 67.45%;
+    --secondary-foreground: 48 96% 53%;  /* C-Tribe Gold */
 
     --accent: 0 0% 27.9%;
-    --accent-foreground: 95.08 71.08% 67.45%;
+    --accent-foreground: 48 96% 53%;  /* C-Tribe Gold */
 
     --destructive: 0 87% 62%;
     --destructive-foreground: 0 87% 19%;
 
-    --ring: 95.08 71.08% 67.45%;
+    --ring: 48 96% 53%;  /* C-Tribe Gold */
 
     --radius: 0.5rem;
 
     --warning: 54 96% 45%;
 
-    --gold: 47.9 95.8% 53.1%;
+    --gold: 48 96% 53%;  /* C-Tribe Gold */
   }
 }
 
